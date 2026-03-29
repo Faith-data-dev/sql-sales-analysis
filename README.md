@@ -20,6 +20,3 @@ This project analyzes a sales dataset to explore trends in revenue, profit, regi
 * Sales vary significantly across regions
 * Certain categories contribute more to profit
 * High-value orders drive a large portion of revenue
-Author: Faith Okoye
-Pharmaci |rmacist transitioning into Healthcare Data Analytics
-########
